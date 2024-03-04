@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"> <!-- Utilise "rectangle" pour la forme de base -->
+    <solid android:color="#202020"/> <!-- Couleur de fond -->
+    <corners android:radius="500dp"/> <!-- Rayon pour les coins arrondis -->
+    <!-- Ajoute un contour si nécessaire -->
+    <stroke android:width="0dp" android:color="#FAFAFA"/>
+</shape>
