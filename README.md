@@ -16,7 +16,7 @@ Bienvenue sur le dépôt de TDLMaster, l'application Android conçue pour transf
 
 ### Liste des fonctionnalités implémentées :
 
-[O] Utilisation de l'Api Preference
+[ ] Utilisation de l'Api Preference
 
 [X] Ecriture/lecture dans un Fichier, usage de InputStream ou OutputStream
 
@@ -26,7 +26,7 @@ Bienvenue sur le dépôt de TDLMaster, l'application Android conçue pour transf
 
 [ ] Utilisation de Firebase
 
-[O] Nombre d'activités ou fragment supérieur ou égal à 3
+[ ] Nombre d'activités ou fragment supérieur ou égal à 3 (2)
 
 [ ] Gestion du bouton Back (message pour confirmer que l'on veut réellement quitter l'application)
 
@@ -42,10 +42,10 @@ Swipe gauche et droite pour naviguer facilement d'une liste à une autre (sur le
 Cliquer sur une liste pour la sélectionner et afficher un bouton de suppression
 
 [X] La réalisation de composant graphique custom (Paint 2D, Calendrier,...) Préciser :
-Le 
+Le séparateur en dessous du menu déroulant de sélection de la semaine.
 
 [X] Les taches en background (codage du démarrage d'un thread)
-WorkManager pour 
+WorkManager pour gérer l'update des to-do list à la fin de chaque semaine.
 
 [X] Le codage d'un menu (contextuel ou non, utilisation d'un menu en resource XML)
 Slider pour sélectionner la semaine.
