@@ -34,7 +34,7 @@ Bienvenue sur le dépôt de TDLMaster, l'application Android conçue pour transf
 
 [X] L'affichage d'une liste avec un custom adapter (avec gestion d’événement)
 
-[X] La pertinence d'utilisation des layouts (L'application doit être responsive et supporter:portrait/paysage et tablette)
+[X] La pertinence d'utilisation des layouts (L'application doit être responsive et supporter:portrait/paysage et tablette) :
 L'application est responsive.
 
 [X] L'utilisation de d’événement améliorant l'ux (pex: swipe). Préciser : 
@@ -44,10 +44,10 @@ Cliquer sur une liste pour la sélectionner et afficher un bouton de suppression
 [X] La réalisation de composant graphique custom (Paint 2D, Calendrier,...) Préciser :
 Le séparateur en dessous du menu déroulant de sélection de la semaine.
 
-[X] Les taches en background (codage du démarrage d'un thread)
+[X] Les taches en background (codage du démarrage d'un thread) :
 WorkManager pour gérer l'update des to-do list à la fin de chaque semaine.
 
-[X] Le codage d'un menu (contextuel ou non, utilisation d'un menu en resource XML)
+[X] Le codage d'un menu (contextuel ou non, utilisation d'un menu en resource XML) :
 Slider pour sélectionner la semaine.
 En revanche, je n'arrive pas à afficher la bonne liste active avec ce slider. J'ai essayé différentes méthodes et laissé les codes commentés. Je pense que je suis pas loin mais malheureusement, je ne peux pas passer plus de temps sur ce projet.
 
